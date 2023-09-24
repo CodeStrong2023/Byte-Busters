@@ -1,7 +1,8 @@
 # Laboratorio 2
 # clase 1 -> Colecciones
 
-# listas, son un conjunto de datos, cada elemento tiene un indice comenzando desde cero,
+# listas, arreglo o vector son un conjunto de datos, cada elemento tiene un indice comenzando
+# desde cero,
 # pueden contener diferentes tipos de datos, son mutables o modificables
 # se definen -> identificador = []
 '''

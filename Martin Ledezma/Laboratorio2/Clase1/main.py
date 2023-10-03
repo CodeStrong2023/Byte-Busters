@@ -17,3 +17,13 @@ print("Ejercicio 3: Rango de 3 a 10 con incremento de 2 en 2")
 for i in range(3, 11, 2):
     print(i)
 
+
+print("Ejercicio tupla y lista")
+
+tupla= (13, 1, 8, 3, 2, 5, 8)
+lista= []
+
+for elemento in tupla:
+    if elemento <5:
+        lista.append(elemento)
+print(lista)

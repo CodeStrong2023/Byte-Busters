@@ -54,6 +54,8 @@ diccionario.clear() # -clear- elimina todos los elementos del diccionario
 print(diccionario)
 del diccionario # elimina el diccionario
 
+## ---------- REPASO ---------
+
 lista = [1, 2, 3]
 lista2 = [4, 5, 6]
 lista3 = lista + lista2 # concatenamos listas
@@ -67,6 +69,8 @@ print(lista3)
 listar = [1, 2, 3] * 2  # repetimos los elementos de la lista segun el multiplicador
 print(listar)
 lista3.sort() # -sort- ordena la lista de forma ascendente
+print(lista3)
+lista3.sort(reverse=True) # -sort(reverse=True)- ordena la lista de forma descendente
 print(lista3)
 
 tupla = (4, 'Hola', 4.3, [3, 2, 5], 4,'chau')

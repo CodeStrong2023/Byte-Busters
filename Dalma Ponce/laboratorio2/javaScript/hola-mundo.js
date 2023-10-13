@@ -45,8 +45,8 @@ function miFuncion() {
 console.log(typeof miFuncion);
 
 // tipo symbol
-var simbolo = Symbol("mi simbolo");
-console.log(typeof simbolo);
+//var simbolo = Symbol("mi simbolo");
+//console.log(typeof simbolo);
 
 // tipo clase
 class Persona {

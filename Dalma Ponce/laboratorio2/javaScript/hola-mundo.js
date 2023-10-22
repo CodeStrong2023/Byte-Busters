@@ -56,3 +56,18 @@ class Persona {
     }
 }
 console.log(typeof Persona);
+
+// tipo undefined  --> dato asignado a variable no inicializada
+var x;
+console.log(typeof x);
+
+// null --> ausencia de valor
+var y = null; // null no es un tipo de dato, pero su origen es object
+console.log(typeof y);
+
+// tipo array y Empty String
+var auto = ['citroen', 'Audi', 'Ford'];
+console.log(typeof auto);
+
+var z = "";
+console.log(typeof z);

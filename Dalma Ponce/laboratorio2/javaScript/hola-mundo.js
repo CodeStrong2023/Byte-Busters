@@ -123,3 +123,28 @@ if (edad >= 18) {
     console.log("Es menor de edad")
 
 }
+
+
+//Ejercicio 3
+// Dentro de un rango
+let dentroRango = 5;
+let valMin = 0, valMax = 10;
+
+if (dentroRango >= valMin && dentroRango <= valMax) {
+
+    console.log("Se encuentra dentro de rango");
+
+} else {
+
+    console.log("Se encuentra fuera de rango");
+
+}
+
+// var, let, const
+
+// Ya no se recomienda el usa de var, solo let
+let nombre_ = "José";
+console.log(nombre_);
+
+const apellido_ = "Parco"; // las constantes no se pueden modificar
+

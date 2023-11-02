@@ -71,3 +71,24 @@ console.log(typeof auto);
 
 var z = "";
 console.log(typeof z);
+
+
+// Concatenar Cadenas
+var nombre = "Samuel";
+var apellido = ' Montes';
+var nombreCompleto = nombre + " " + apellido;  // primera forma de concatenar
+console.log(nombreCompleto);
+
+var nombreCompleto2 = 'Javier' + " " + 'Martinez'; // segunda forma de concatenar
+console.log(nombreCompleto2);
+
+var juntos = nombre + 219; // Los numeros los une al string como cadena
+console.log(juntos);
+
+juntos = nombre + 78 + 17;
+juntos = 78 + 17 + nombre;
+console.log(juntos);
+
+nombre += apellido; // tercer forma de concatenar
+console.log(nombre);
+

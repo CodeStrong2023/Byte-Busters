@@ -92,3 +92,34 @@ console.log(juntos);
 nombre += apellido; // tercer forma de concatenar
 console.log(nombre);
 
+let x, y;  // se pueden declarar y asignar varias variables en una linea
+x = 17, y = 21;
+let z = x + y;
+
+let _1num = 31; // no utilizar numeros al inicio para nombrar a variable
+
+// Ejercicio 1:
+// Encontrar numeros pares e impares
+let numParImpar = 22;
+if (numParImpar % 2 == 0) {
+
+    console.log("El numero es par");
+
+} else {
+
+    console.log("El numero es impar");
+}
+
+
+// Ejercicio 2:
+//Es mayor de edad
+let edad = 18;
+
+if (edad >= 18) {
+    console.log("Es mayor de edad")
+
+} else {
+
+    console.log("Es menor de edad")
+
+}

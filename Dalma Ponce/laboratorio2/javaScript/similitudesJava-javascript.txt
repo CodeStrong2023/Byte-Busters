@@ -18,3 +18,6 @@ Secuencias de Escape
 	\f --> salto de pagina
 Operador de aumento --> ++
 Operador de decremento --> --
+Operadores Logicos
+	And --> && doble aspersan
+	Or --> || doble pleca

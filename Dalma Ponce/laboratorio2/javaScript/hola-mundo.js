@@ -148,3 +148,50 @@ console.log(nombre_);
 
 const apellido_ = "Parco"; // las constantes no se pueden modificar
 
+// Ejercicio 4:
+// Padre puede asistir al juego de su hijo
+let vacaciones = false, diaDescanso = true;
+if (vacaciones || diaDescanso) {
+
+    conosole.log("Puede asistir");
+
+} else {
+
+    console.log("No puede asistir");
+
+}
+
+//Operador ternario
+let resultado_ = 3 > 2 ? "verdadero" : "falso";
+console.log(resultado_);
+let _num = 8;
+resultado_ = _num % 2 == 0 ? "Es numero par" : "Es numero impar";
+
+//convertir String a number
+let miNumero = "11";
+console.log(typeof miNumero);
+let edad2 = Number(miNumero); // funcion
+console.log(typeof edad2);
+if (isNaN(edad2)) {
+
+    console.log("Esta variable no contiene un numero")
+
+} else {
+
+    if (edad2 >= 18) {
+
+        console.log("Puede votar");
+
+    } else {
+
+        console.log("No puede votar");
+
+    }
+}
+
+//Operador ternario
+let resultado3 = edad2 >= 18 ? "Puede votar" : "No puede votar";
+console.log(resultado3);
+
+//Funcion isNaN --> devuelve un booleano (NaN --> Not at Number)
+

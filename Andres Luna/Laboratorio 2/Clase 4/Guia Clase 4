@@ -1,0 +1,27 @@
+-Ejercicio1: Eliminar duplicados de una lista. Escribir un programa donde tenga una lista y que a continuacion elimine
+los elementos repetidos, por ultimo mostrar la lista.
+
+-Ejercicio 1 de matemática. Sacar la raiz cuadrada de un número positivo
+
+-Ejercicio 2: Operaciones de conjuntos con listas.
+Escribir un programa que tenga 2 listas y que a continuación cree las siguientes listas
+(en las que no debe haber repetición)
+1- Lista de palabras que aparecen en las listas
+2- Lista de palabras que aparecen en la 1ra lista, pero no en la 2da
+3- Lista de palabras que aparecen en la 2da lista, pero no en la primera
+4- Lista de palabras que aparecen en ambas listas
+
+-Ejercicio 3: Agregar personajes a una lista
+Escriba un programa donde cree una lista con los siguientes personajes del Señor de los Anillos.
+
+-Ej 1-Llenar lista: Llenar una lista con los números del 1 al 50, luego mostrar la lista con el ciclo for
+los elementos deben mostrarse de la siguiente forma:
+1-2-3-4-5-...-50
+
+-Ej 2: Modificar los elementos de una lista.
+Llenar una lista con los nros del 1 al 10, luego modificar los elementos de la lista,
+ multiplicandolos por un valor ingresado por el usuario
+
+-ej 3-Insert elementos: Insertar elementos y ordenarlos.
+Pedir números y meterlos en una lista, cuando el usuario introduzca un nro 0,
+nuestro programa dejaría de insertar. Por último, mostrar los nros ordenados crecientemente

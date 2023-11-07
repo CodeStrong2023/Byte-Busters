@@ -1,0 +1,32 @@
+-Ejercicio 04: Sumar números pares dentro de un rango
+Hacer un programa para sumar nros pares dentro de un rango, por ejemplo:
+_ suma de nros pares del 2 al 30
+_ suma=240
+
+- Ejercicio 5: Factorial de un nro positivo
+Hacer un programa para calcular el factorial de un nro positivo
+
+-Ejercicio 6: Tabla de multiplicar
+Hacer un programa que pida un nro por teclado y guarde en una lista su tabla de multiplicar hasta el 10. Por ejemplo:
+Si digita el 5 la lista tendrá: 5,10,15,20,25,30,35,40,45,50
+
+-Ejercicio 7: Juego adivina el nro
+Realizar un juego para adivinar un nro. Para ello se debe generar un nro aleatorio entre 1-100, y luego ir pidiendo
+nros indicando "es mayor" o "es menor" según sea mayor o menor respecto a N. El proceso termina cuando el usuario
+acierta y allí se debe mostrar el nro de intentos
+
+-Ejercicio 8: Menú interactivo - Cajero automatico
+Hacer un programa qu esimule un cajero autoamtico con un saldo inicial de $1000 y tendra las opciones:
+1. Ingresar dinero en la cuenta
+2. Retirar dinero de la cuenta
+3. Mostrar dinero disponible
+4. Salir
+
+-Ejercicio 9: Mostrar frases sin espacios y contar su longitud.
+Hacer un programa donde el usuario ingrese una frase, se le devolvera la misma frase pero sin espacios en blanco,
+y además un contador de cúantos caracteres tien la frase (sin contar los espacios en blanco)
+Ejemplo:    frase = vivir por siempre en paz
+            frase final = vivirporsiempreenpaz
+            Nº de caracteres = 20
+
+-FuncionesDePython: definición de función

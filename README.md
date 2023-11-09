@@ -15,6 +15,7 @@ Hola! Este repositorio esta destinado para las materias de Laboratorio 2 y Progr
 - [@dalmaponce](https://www.github.com/dalmaponce)
 - [@LucaPeraltta](https://www.github.com/LucaPeraltta)
 - [@M-elsesser](https://www.github.com/M-elsesser)
+- [@Briandif](https://github.com/Briandif)
 
 
 ## Trabajamos con:
